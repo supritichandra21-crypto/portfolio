@@ -8,7 +8,7 @@ const profile = {
   location: 'Medinipur, India',
   linkedIn: 'https://linkedin.com/in/aarav-mehta',
   github: 'https://github.com/aarav-physics',
-  portfolio: 'http://Krishna:1514',
+  portfolio: 'https://supritichandra21-crypto.github.io/portfolio/',
 };
 
 const education = [
